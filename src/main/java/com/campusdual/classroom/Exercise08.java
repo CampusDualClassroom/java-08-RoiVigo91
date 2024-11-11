@@ -15,10 +15,10 @@ public class Exercise08 {
     // etc.
 
     public static void whileLoop(int num) {
-            int X = 1;
-            while (X < num) {
-                System.out.println(X + " < " + num + ". El proximo ciclo valdra: " + (X + 1));
-                X++;
+            int x = 1;
+            while (x < num) {
+                System.out.println(x + " < " + num + ". El proximo ciclo valdra: " + (x + 1));
+                x++;
             }
         }
 
